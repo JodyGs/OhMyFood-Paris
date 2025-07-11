@@ -1,0 +1,16 @@
+node_modules/
+
+# CSS compilés
+css/
+*.css
+*.css.map
+
+# Config locale
+.DS_Store
+.env
+.vscode/
+*.log
+
+# Cache
+.sass-cache/
+.cache/

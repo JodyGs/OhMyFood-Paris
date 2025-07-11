@@ -1,0 +1,25 @@
+{
+  "name": "ohmyfood-paris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JodyGs/OhMyFood-Paris.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JodyGs/OhMyFood-Paris/issues"
+  },
+  "homepage": "https://github.com/JodyGs/OhMyFood-Paris#readme",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
